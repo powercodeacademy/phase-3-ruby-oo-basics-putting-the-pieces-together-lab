@@ -41,13 +41,13 @@ folder. If you'd like to run the tests separately for the two classes, you can
 specify which `spec` file to run:
 
 ```console
-$ learn spec/01_book_spec.rb
+bin/rspec spec/01_book_spec.rb
 ```
 
 or:
 
 ```console
-$ learn spec/02_shoe_spec.rb
+bin/rspec spec/02_shoe_spec.rb
 ```
 
 Happy coding!
